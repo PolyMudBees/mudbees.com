@@ -1,0 +1,15 @@
+# Site web du baja
+Le site web promotionnel du baja qui permet aux gens de savoir en quoi consiste le baja.
+## Publication
+Première fois (dans le folder qui vous tente):
+```bash
+git clone https://gitlab.baja.polymtl.ca/tlaferriere/mudbees-com.git
+cd mudbees-com
+chmod u+x update.sh
+sudo ./update.sh
+```
+Après ça:
+```bash
+cd mudbees-com
+sudo ./update.sh
+```
