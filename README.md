@@ -11,5 +11,6 @@ sudo ./update.sh
 Après ça:
 ```bash
 cd mudbees-com
+git pull
 sudo ./update.sh
 ```
