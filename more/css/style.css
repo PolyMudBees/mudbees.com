@@ -204,3 +204,12 @@ ul.result{
     height: auto;
 }
 
+.test {
+    background-color: red !important;
+    color: white !important;
+}
+
+.test > div > p{
+    background-color: red !important;
+    color: white !important;
+}
