@@ -1,7 +1,7 @@
 deploy:
     only:
         refs:
-            /^.*-release$/
+            - /^.*-release$/
     except:
         - branches
     script:
