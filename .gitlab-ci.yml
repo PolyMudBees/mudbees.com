@@ -6,4 +6,4 @@ deploy:
         - branches
     script:
         - shopt -s extglob
-        - cp -r [*.html|more] /var/www/
+        - cp -r {*.html,more} /var/www/
