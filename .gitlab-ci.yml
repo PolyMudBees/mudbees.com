@@ -7,3 +7,5 @@ deploy:
     script:
         - shopt -s extglob
         - cp -r {*.html,more} /var/www/
+    tags:
+        - admin
