@@ -1,0 +1,9 @@
+deploy:
+    only:
+        refs:
+            /^.*-release$/
+    except:
+        - branches
+    script:
+        - shopt -s extglob
+        - cp -r [*.html|more] /var/www/
