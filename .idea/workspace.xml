@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d468cd8a-7ba5-45a6-9533-b58c37c85b4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d468cd8a-7ba5-45a6-9533-b58c37c85b4d" name="Default Changelist" comment="">      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FRA.html" beforeDir="false" afterPath="$PROJECT_DIR$/FRA.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/more/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/more/css/style.css" afterDir="false" />
     </list>
@@ -71,12 +70,12 @@
       </usages-collector>
     </session>
   </component>
-  <component name="FileEditorManager">
+ <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
+            <state relative-caret-position="352">
               <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
             </state>
           </provider>
@@ -87,7 +86,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1173">
               <caret line="578" column="24" selection-start-line="578" selection-start-column="24" selection-end-line="578" selection-end-column="24" />
-              <folding>
+             <folding>
                 <element signature="e#2406#2414#0" expanded="true" />
                 <element signature="e#2450#2458#0" expanded="true" />
                 <element signature="e#18501#18509#0" expanded="true" />
@@ -96,6 +95,8 @@
                 <element signature="e#19097#19105#0" expanded="true" />
                 <element signature="e#26417#26425#0" expanded="true" />
                 <element signature="e#32978#32986#0" expanded="true" />
+=======
+>>>>>>> 7192ead77f306a498926409775439ead46d3f5ad
               </folding>
             </state>
           </provider>
@@ -104,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ENG.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2990">
+            <state relative-caret-position="2080">
               <caret line="130" column="50" selection-start-line="130" selection-start-column="50" selection-end-line="130" selection-end-column="50" />
             </state>
           </provider>
@@ -115,8 +116,20 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="829">
               <caret line="218" selection-start-line="218" selection-end-line="218" />
-            </state>
+           </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-755" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -144,14 +157,8 @@
         <option value="$PROJECT_DIR$/updateWebsite.sh" />
         <option value="$PROJECT_DIR$/FRA.html" />
         <option value="$PROJECT_DIR$/more/css/style.css" />
-      </list>
+     </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="9" />
@@ -184,33 +191,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="mudbees.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mudbees.com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mudbees.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mudbees.com" type="462c0819:PsiDirectoryNode" />
-              <item name="more" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mudbees.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mudbees.com" type="462c0819:PsiDirectoryNode" />
-              <item name="more" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="mudbees-com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mudbees-com" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projet/angular-tour" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
@@ -249,7 +247,7 @@
       <workItem from="1545256698847" duration="13598000" />
       <workItem from="1547213284762" duration="216000" />
       <workItem from="1547488653815" duration="5091000" />
-    </task>
+   </task>
     <task id="LOCAL-00001" summary="Addition du slideshow non flash">
       <created>1540437847283</created>
       <option name="number" value="00001" />
@@ -304,14 +302,14 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="67814000" />
-  </component>
+ </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="1" width="1924" height="1081" extended-state="6" />
-    <editor active="true" />
+    <frame x="9" y="12" width="1924" height="1080" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11585045" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11585045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Regex Tester" weight="0.32984293" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -322,7 +320,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32850778" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.33471504" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+     <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -341,9 +339,6 @@
         <option value="1" />
       </list>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Addition du slideshow non flash" />
@@ -382,14 +377,14 @@
     <entry file="file://$PROJECT_DIR$/update.sh" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state relative-caret-position="352">
           <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ENG.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2990">
+        <state relative-caret-position="2080">
           <caret line="130" column="50" selection-start-line="130" selection-start-column="50" selection-end-line="130" selection-end-column="50" />
         </state>
       </provider>
@@ -398,7 +393,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="578" column="24" selection-start-line="578" selection-start-column="24" selection-end-line="578" selection-end-column="24" />
-          <folding>
+         <folding>
             <element signature="e#2406#2414#0" expanded="true" />
             <element signature="e#2450#2458#0" expanded="true" />
             <element signature="e#18501#18509#0" expanded="true" />
@@ -418,5 +413,5 @@
         </state>
       </provider>
     </entry>
-  </component>
+</component>
 </project>
