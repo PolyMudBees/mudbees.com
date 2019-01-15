@@ -68,3 +68,5 @@ fabric.properties
 .idea/encodings.xml
 .idea/markdown-navigator.xml
 .idea/markdown-navigator/
+.ci/
+.idea/inspectionProfiles/
