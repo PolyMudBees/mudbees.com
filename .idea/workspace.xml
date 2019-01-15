@@ -4,6 +4,7 @@
     <list default="true" id="d468cd8a-7ba5-45a6-9533-b58c37c85b4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FRA.html" beforeDir="false" afterPath="$PROJECT_DIR$/FRA.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/more/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/more/css/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,8 +52,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="38" />
-          <entry key="CSS" value="421" />
-          <entry key="HTML" value="3202" />
+          <entry key="CSS" value="447" />
+          <entry key="HTML" value="3496" />
           <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="471" />
         </counts>
@@ -61,8 +62,8 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="421" />
-          <entry key="html" value="3202" />
+          <entry key="css" value="447" />
+          <entry key="html" value="3496" />
           <entry key="js" value="5" />
           <entry key="sh" value="38" />
           <entry key="txt" value="471" />
@@ -81,17 +82,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FRA.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="363" column="59" selection-start-line="363" selection-start-column="59" selection-end-line="363" selection-end-column="59" />
+            <state relative-caret-position="1173">
+              <caret line="578" column="24" selection-start-line="578" selection-start-column="24" selection-end-line="578" selection-end-column="24" />
               <folding>
                 <element signature="e#2406#2414#0" expanded="true" />
                 <element signature="e#2450#2458#0" expanded="true" />
                 <element signature="e#18501#18509#0" expanded="true" />
                 <element signature="e#18773#18781#0" expanded="true" />
                 <element signature="e#18991#18999#0" expanded="true" />
+                <element signature="e#19097#19105#0" expanded="true" />
+                <element signature="e#26417#26425#0" expanded="true" />
                 <element signature="e#32978#32986#0" expanded="true" />
               </folding>
             </state>
@@ -107,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/more/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4738">
-              <caret line="206" column="5" selection-start-line="206" selection-start-column="5" selection-end-line="206" selection-end-column="5" />
+            <state relative-caret-position="829">
+              <caret line="218" selection-start-line="218" selection-end-line="218" />
             </state>
           </provider>
         </entry>
@@ -136,11 +139,11 @@
       <list>
         <option value="$PROJECT_DIR$/ENGold.html" />
         <option value="$PROJECT_DIR$/more/js/custom.js" />
-        <option value="$PROJECT_DIR$/more/css/style.css" />
         <option value="$PROJECT_DIR$/ENG.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/updateWebsite.sh" />
         <option value="$PROJECT_DIR$/FRA.html" />
+        <option value="$PROJECT_DIR$/more/css/style.css" />
       </list>
     </option>
   </component>
@@ -245,7 +248,7 @@
       <workItem from="1545001437169" duration="3109000" />
       <workItem from="1545256698847" duration="13598000" />
       <workItem from="1547213284762" duration="216000" />
-      <workItem from="1547488653815" duration="1303000" />
+      <workItem from="1547488653815" duration="5091000" />
     </task>
     <task id="LOCAL-00001" summary="Addition du slideshow non flash">
       <created>1540437847283</created>
@@ -300,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64026000" />
+    <option name="totallyTimeSpent" value="67814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="1" width="1924" height="1081" extended-state="6" />
@@ -318,7 +321,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32850778" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33554083" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33471504" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -391,25 +394,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/more/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4738">
-          <caret line="206" column="5" selection-start-line="206" selection-start-column="5" selection-end-line="206" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FRA.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="363" column="59" selection-start-line="363" selection-start-column="59" selection-end-line="363" selection-end-column="59" />
+        <state relative-caret-position="1173">
+          <caret line="578" column="24" selection-start-line="578" selection-start-column="24" selection-end-line="578" selection-end-column="24" />
           <folding>
             <element signature="e#2406#2414#0" expanded="true" />
             <element signature="e#2450#2458#0" expanded="true" />
             <element signature="e#18501#18509#0" expanded="true" />
             <element signature="e#18773#18781#0" expanded="true" />
             <element signature="e#18991#18999#0" expanded="true" />
+            <element signature="e#19097#19105#0" expanded="true" />
+            <element signature="e#26417#26425#0" expanded="true" />
             <element signature="e#32978#32986#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
         </state>
       </provider>
     </entry>

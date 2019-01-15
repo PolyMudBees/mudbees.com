@@ -213,3 +213,7 @@ ul.result{
     background-color: red !important;
     color: white !important;
 }
+
+#tab_platine > tr > td {
+    width: 100%;
+}
