@@ -217,3 +217,15 @@ ul.result{
 #tab_platine > tr > td {
     width: 100%;
 }
+
+#tab_or > tr > td {
+    width: 50%;
+}
+
+#tab_argent > tr > td {
+    width: 33%;
+}
+
+#tab_bronze > tr > td {
+    width: 25%;
+}
