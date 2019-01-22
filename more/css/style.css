@@ -209,11 +209,6 @@ ul.result{
     color: white !important;
 }
 
-.test > div > p{
-    background-color: red !important;
-    color: white !important;
-}
-
 #tab_platinum > tr > td {
     width: 100%;
 }
