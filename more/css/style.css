@@ -214,15 +214,15 @@ ul.result{
     color: white !important;
 }
 
-#tab_platine > tr > td {
+#tab_platinum > tr > td {
     width: 100%;
 }
 
-#tab_or > tr > td {
+#tab_gold > tr > td {
     width: 50%;
 }
 
-#tab_argent > tr > td {
+#tab_silver > tr > td {
     width: 33%;
 }
 
